@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e26322fe4d41ca941929bad1813c0a49
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 1236894561715745489, guid: 2a53267794b0ef54cb1850631bf37388, type: 3}
+  - cam: {instanceID: 0}
+  - playerCtrl: {fileID: 1236894561715745453, guid: 2a53267794b0ef54cb1850631bf37388, type: 3}
+  - playerRb: {fileID: 1236894561715745455, guid: 2a53267794b0ef54cb1850631bf37388, type: 3}
+  - playerCol: {fileID: 1236894561715745454, guid: 2a53267794b0ef54cb1850631bf37388, type: 3}
+  - groundPrefab: {fileID: 6437159085706030504, guid: ef01bdce72f2b554b87c9a7b671ddf13, type: 3}
+  - overheadPrefab: {fileID: 490586283009413191, guid: 8e11d321624d9bd419f6e9a3e3149f09, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

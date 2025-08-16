@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Obstacle
+  - Collectible
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3094459339
+    locked: 0
+  - name: Ground
+    uniqueID: 318751811
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2060055661
+    locked: 0
+  - name: Player
+    uniqueID: 1524300009
+    locked: 0
+  - name: Foreground
+    uniqueID: 3953580595
+    locked: 0
+  - name: UI
+    uniqueID: 1175146297
+    locked: 0
