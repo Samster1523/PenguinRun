@@ -26,3 +26,10 @@ UserSettings/
 # OS
 .DS_Store
 Thumbs.db
+# --- Allow WebGL site on GitHub Pages ---
+!docs/
+!docs/index.html
+!docs/TemplateData/
+!docs/TemplateData/**
+!docs/Build/
+!docs/Build/**
